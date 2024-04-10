@@ -6,7 +6,7 @@ with open('README.md', encoding='utf8') as f:
 
 
 setup(name='audioowl',
-      version='0.0.14',
+      version='0.0.15',
       description='Fast and simple music and audio analysis using RNN in Python',
       long_description=long_description,
       long_description_content_type="text/markdown",
@@ -17,7 +17,7 @@ setup(name='audioowl',
           'Topic :: Multimedia :: Sound/Audio :: Analysis'
       ],
       keywords='Fast and simple music and audio analysis using RNN in Python',
-      url='https://github.com/dodiku/AudioOwl',
+      url='https://github.com/JohanAR/AudioOwl',
       author='Dror Ayalon',
       author_email='d.stamail@gmail.com',
       license='MIT',
