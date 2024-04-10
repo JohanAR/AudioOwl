@@ -26,7 +26,7 @@ setup(name='audioowl',
         'numpy',
         'scipy',
         'cython',
-        'madmom~=0.16.1',
+        #'madmom~=0.16.1',  broken, install latest from git instead
         'librosa~=0.10.1',
       ],
       include_package_data=True,
